@@ -1,0 +1,36 @@
+_repo: Suuri-illusioni_74472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waltari, Mika
+    aliases:
+    - Waltari, Mika Toimi
+    - Nauticus
+    - Valtari, Mika
+    birthdate: 1908
+    deathdate: 1979
+    gutenberg_agent_id: '57518'
+    url: http://www.gutenberg.org/2009/agents/57518
+    wikipedia: https://fi.wikipedia.org/wiki/Mika_Waltari
+description: 'Wikipedia page on this work: https://fi.wikipedia.org/wiki/Suuri_illusioni'
+gutenberg_issued: '2024-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74472'
+language: fi
+pgterms:marc905: 20240809071829waltari
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Helsinki (Finland) -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PH'
+- GITenberg
+title: Suuri illusioni
+url: http://www.gutenberg.org/ebooks/74472
