@@ -1,5 +1,8 @@
 _repo: Suuri-illusioni_74472
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Waltari, Mika
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57518
     wikipedia: https://fi.wikipedia.org/wiki/Mika_Waltari
 description: 'Wikipedia page on this work: https://fi.wikipedia.org/wiki/Suuri_illusioni'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74472#Suuri-illusioni
 gutenberg_issued: '2024-09-24'
 gutenberg_type: Text
 identifiers:
